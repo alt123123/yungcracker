@@ -3,7 +3,7 @@
 ```diff
 hi, im yungcracker.
 
-@@advanced programming student.@@
+@@cocaine coder.@@
 - 15 years old
 ! cracker, hacker and shitposter
 ```
