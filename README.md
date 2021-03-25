@@ -3,7 +3,7 @@
 ```diff
 hi, im yungcracker.
 
-@@advanced programming student.
+- ![#f03c15] @@advanced programming student. `#f03c15`
 - 15 years old
 ! cracker, hacker and shitposter
 ```
